@@ -1,0 +1,2 @@
+ssh -D 1080 -p 4522 root@yoko.ukrtux.com
+ssh -p 4522 -R 14522:localhost:22 root@yoko.ukrtux.com
